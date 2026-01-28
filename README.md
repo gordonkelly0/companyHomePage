@@ -1,0 +1,3 @@
+Goal of Projest was to create below website:
+
+https://content.codecademy.com/PRO/independent-practice-projects/flexbox-business-site/example-site/index.html?_gl=1*1fntqkq*_gcl_aw*R0NMLjE3NjUyOTU1ODcuQ2owS0NRaUFydF9KQmhDVEFSSXNBRFFaYXluS212YW5qejVlVVNoZ0g3Y3pfZWRJdHlNWmIyLVFvS3RMWGZtTUQyb1dPSTVWYmJLMFBhMGFBczFERUFMd193Y0I.*_gcl_au*MTM0NDQ5Njk0Mi4xNzY3NjI1OTAzLjI2NzU3MjQ4MC4xNzY3NjI1OTA3LjE3Njc2MjU5MzI.*_ga*NDM4OTQ1MDQ1OC4xNzU5MjMxNDk3*_ga_3LRZM6TM9L*czE3Njk1OTY1MDkkbzEyMyRnMSR0MTc2OTU5ODIyNCRqNTYkbDAkaDA.#mission
